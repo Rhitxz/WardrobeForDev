@@ -24,6 +24,12 @@ const Navbar = () => {
           Catalog
         </Link>
         <Link href="/" className="hover:text-gray-900 transition">
+          Lite
+        </Link>
+        <Link href="/" className="hover:text-gray-900 transition">
+          Luxe
+        </Link>
+        <Link href="/" className="hover:text-gray-900 transition">
           About Us
         </Link>
         <Link href="/" className="hover:text-gray-900 transition">
